@@ -2,6 +2,6 @@
 added readme file
 (HOSTED AT)[https://f23wb86potla.onrender.com]
 
-**Class name: cats**
+**Class name: Milk**
 
-***Attributes class: name(String)  breed(String)  price(number)
+***Attributes class: name(String)  type(String)  price(number)***
